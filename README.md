@@ -17,9 +17,10 @@ Ovdje možete vidjeti moji [Use case](https://lucid.app/lucidchart/a2b3b26e-e5cf
 
 
 # Kako instalirati i pokrenuti servis?
-Moji servis radi preko Docker-a, prvi korak bih bio instalirati Docker Desktop zatim
-2. Instalirajte moji web servis ili 'git clone https://github.com/MateoM2/Filmania'
-3. Uđite u repozitorij pomoću 'cd Filmania'
+Moji servis radi preko Docker-a, prvi korak bih bio instalirati Docker Desktop zatim.
+
+1. Instalirajte moji web servis ili 'git clone https://github.com/MateoM2/Filmania'
+2. Uđite u repozitorij pomoću 'cd Filmania'
 
 
 
