@@ -9,4 +9,11 @@ Ovdje možete vidjeti moji [Use case](https://lucid.app/lucidchart/a2b3b26e-e5cf
 <img width="811" height="668" alt="image" src="https://github.com/user-attachments/assets/b104a42a-8238-410e-b32d-a4ede65f30e6" />
 
 
+# Funkcijonalnosti
+1. Izrada zahtjeva( Biranje fotografa,datum,mjesto,količina slika i događaj koji želite)
+2. Brisanje zahtjeva
+3. Izmjena zahtjeva
+4. Vizualizacija svih događaja i koliko svakih fotograf ima zahtjeva
+
+
 
