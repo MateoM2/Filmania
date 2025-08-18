@@ -1,6 +1,6 @@
 # Filmania
 Web servis koji nudi naručivanje fotografa za događaja. Npr Vjenčanje itd. 
-Korisnik moći će kreirati i brisati zahtjeve fotografa, Moći će pregledavati opise pojedinačnoga fotografa i filtriranje fotografa po lokaciji. Napravio sam ovu aplikaciju kako bih olakšao naručivanje fotografa.
+Korisnik moći će kreirati i brisati zahtjeve fotografa, Moći će pregledavati opise pojedinačnoga fotografa i filtriranje fotografa po lokaciji. Napravio sam ovaj web servis kako bih olakšao naručivanje fotografa.
 Ukinujući potrošeno vrijeme traženja spesifičnog fotografa za Vašu potrebu.
 
 
@@ -14,6 +14,12 @@ Ovdje možete vidjeti moji [Use case](https://lucid.app/lucidchart/a2b3b26e-e5cf
 2. Brisanje zahtjeva
 3. Izmjena zahtjeva
 4. Vizualizacija svih događaja i koliko svakih fotograf ima zahtjeva
+
+
+# Kako instalirati i pokrenuti servis?
+Moji servis radi preko Docker-a, prvi korak bih bio instalirati Docker Desktop zatim
+2. Instalirajte moji web servis ili 'git clone https://github.com/MateoM2/Filmania'
+3. Uđite u repozitorij pomoću 'cd Filmania'
 
 
 
