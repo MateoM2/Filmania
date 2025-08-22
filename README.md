@@ -6,7 +6,8 @@ Ukinujući potrošeno vrijeme traženja spesifičnog fotografa za Vašu potrebu.
 
 # Use case
 Ovdje možete vidjeti moji [Use case](https://lucid.app/lucidchart/a2b3b26e-e5cf-4dcd-99d5-3afc9ce74420/edit?page=.Q4MUjXso07N&invitationId=inv_4a7e3534-620c-4bbe-86bd-9be1a58b416a#)
-<img width="811" height="668" alt="image" src="https://github.com/user-attachments/assets/b104a42a-8238-410e-b32d-a4ede65f30e6" />
+<img width="811" height="668" alt="image" src="![Usecase](https://github.com/user-attachments/assets/a17864a8-2259-48b7-b50e-52b5b8ea5dec)
+" />
 
 
 # Funkcijonalnosti
